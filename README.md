@@ -32,7 +32,7 @@
 ---
 
 ### 🌐 Connect With Me  
-📫 **Email:** [huzaifabashir@example.com](mailto:huzaifabashir@example.com)  
+📫 **Email:** [huzaifabashir444@example.com](mailto:huzaifabashir@example.com)  
 🐙 **GitHub:** [github.com/HuzaifaBashir](https://github.com/HuzaifaBashir)
 
 ---
